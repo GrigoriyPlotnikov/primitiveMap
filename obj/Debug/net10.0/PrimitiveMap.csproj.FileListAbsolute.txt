@@ -1,0 +1,14 @@
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/bin/Debug/net10.0/PrimitiveMap
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/bin/Debug/net10.0/PrimitiveMap.deps.json
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/bin/Debug/net10.0/PrimitiveMap.runtimeconfig.json
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/bin/Debug/net10.0/PrimitiveMap.dll
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/bin/Debug/net10.0/PrimitiveMap.pdb
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/obj/Debug/net10.0/PrimitiveMap.GeneratedMSBuildEditorConfig.editorconfig
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/obj/Debug/net10.0/PrimitiveMap.AssemblyInfoInputs.cache
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/obj/Debug/net10.0/PrimitiveMap.AssemblyInfo.cs
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/obj/Debug/net10.0/PrimitiveMap.csproj.CoreCompileInputs.cache
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/obj/Debug/net10.0/PrimitiveMap.dll
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/obj/Debug/net10.0/refint/PrimitiveMap.dll
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/obj/Debug/net10.0/PrimitiveMap.pdb
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/obj/Debug/net10.0/PrimitiveMap.genruntimeconfig.cache
+/home/grigoriy/Desktop/csharp-excercises/PrimitiveMap/obj/Debug/net10.0/ref/PrimitiveMap.dll

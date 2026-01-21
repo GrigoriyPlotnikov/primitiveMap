@@ -1,0 +1,11 @@
+{
+  "editor.indentSize": "tabSize",
+  //js, ts, html, css whatever everywhere
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+
+  // Language-specific settings for C#
+  "[csharp]": {
+    "editor.tabSize": 4
+  }
+}
